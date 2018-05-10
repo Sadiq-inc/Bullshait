@@ -1,1 +1,3 @@
 # Bullshait
+
+Project for bullshait
